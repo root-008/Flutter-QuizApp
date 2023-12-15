@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "What is the central processing unit (CPU) responsible for?",
+    "A": "Executing instructions and performing calculations",
+    "B": "Managing input and output devices",
+    "C": "Storing data for long-term use",
+    "D": "Providing network connectivity",
+    "correct_answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "What is the purpose of an operating system?",
+    "A": "Executing software applications",
+    "B": "Managing computer hardware resources",
+    "C": "Creating graphical user interfaces",
+    "D": "Developing computer games",
+    "correct_answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "What is the difference between RAM and hard disk storage?",
+    "A": "RAM is non-volatile, while hard disk storage is volatile",
+    "B": "RAM stores data temporarily, while hard disk storage stores data persistently",
+    "C": "RAM is faster than hard disk storage",
+    "D": "Hard disk storage is used for primary memory",
+    "correct_answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "What is the role of a compiler in computer programming?",
+    "A": "Translating source code into machine code",
+    "B": "Providing a development environment for programmers",
+    "C": "Debugging software applications",
+    "D": "Managing computer networks",
+    "correct_answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "What is an IP address used for?",
+    "A": "Identifying a device on a network",
+    "B": "Storing website content",
+    "C": "Enabling wireless communication",
+    "D": "Running virtual machines",
+    "correct_answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of a firewall?",
+    "A": "Blocking unauthorized access to a network",
+    "B": "Encrypting data during transmission",
+    "C": "Managing database operations",
+    "D": "Optimizing computer performance",
+    "correct_answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "What is a function in programming?",
+    "A": "A reusable block of code that performs a specific task",
+    "B": "A data type used to store text",
+    "C": "A mathematical equation",
+    "D": "An input device for computers",
+    "correct_answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "What is the purpose of an index in a database?",
+    "A": "Speeding up data retrieval operations",
+    "B": "Creating graphical user interfaces",
+    "C": "Executing complex calculations",
+    "D": "Generating random numbers",
+    "correct_answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "What is object-oriented programming (OOP)?",
+    "A": "A programming paradigm based on objects and classes",
+    "B": "A programming language used for web development",
+    "C": "A type of computer memory",
+    "D": "A method for network communication",
+    "correct_answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of a loop in programming?",
+    "A": "Repeating a set of instructions multiple times",
+    "B": "Generating random numbers",
+    "C": "Storing and retrieving data",
+    "D": "Executing database queries",
+    "correct_answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "What is the role of a motherboard in a computer?",
+    "A": "Connecting and providing communication between all hardware components",
+    "B": "Processing and executing instructions",
+    "C": "Storing files and documents",
+    "D": "Displaying visual output on the screen",
+    "correct_answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "What is a software bug?",
+    "A": "An error or defect in a computer program",
+    "B": "A type of computer virus",
+    "C": "A security vulnerability",
+    "D": "A hardware malfunction",
+    "correct_answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "What is the purpose of version control software?",
+    "A": "Managing changes to source code and files",
+    "B": "Creating visual designs and illustrations",
+    "C": "Testing software applications",
+    "D": "Analyzing network traffic",
+    "correct_answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "What is the difference between HTTP and HTTPS?",
+    "A": "HTTP is a secure version of HTTPS",
+    "B": "HTTP is used for email communication, while HTTPS is used for web browsing",
+    "C": "HTTP is a protocol for web browsing, while HTTPS encrypts data for secure communication",
+    "D": "HTTP is faster than HTTPS",
+    "correct_answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "What is the purpose of a graphics processing unit (GPU)?",
+    "A": "Rendering and displaying visual graphics on a computer screen",
+    "B": "Executing database queries",
+    "C": "Managing network connections",
+    "D": "Creating backups of files",
+    "correct_answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "What is the difference between a local area network (LAN) and a wide area network (WAN)?",
+    "A": "LANs are wireless, while WANs use wired connections",
+    "B": "LANs cover larger geographical areas than WANs",
+    "C": "LANs are used for home networks, while WANs are used for business networks",
+    "D": "LANs are faster than WANs",
+    "correct_answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "What is the purpose of a cache in a computer system?",
+    "A": "Storing frequently accessed data for faster retrieval",
+    "B": "Managing user accounts and permissions",
+    "C": "Transferring data between different networks",
+    "D": "Performing complex calculations",
+    "correct_answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "What is the role of an input device in a computer system?",
+    "A": "Providing data and instructions to the computer",
+    "B": "Storing files and documents",
+    "C": "Processing and executing instructions",
+    "D": "Displaying visual output on the screen",
+    "correct_answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "What is a data structure in programming?",
+    "A": "A way of organizing and storing data for efficient access and modification",
+    "B": "A programming language used for web development",
+    "C": "A type of computer memory",
+    "D": "A method for network communication",
+    "correct_answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "What is the purpose of an API (Application Programming Interface)?",
+    "A": "Enabling communication and interaction between different software applications",
+    "B": "Managing computer networks",
+    "C": "Generating random numbers",
+    "D": "Executing complex calculations",
+    "correct_answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "What is the difference between a compiler and an interpreter?",
+    "A": "Compilers are used for web development, while interpreters are used for mobile app development",
+    "B": "Compilers translate source code into machine code, while interpreters execute code directly",
+    "C": "Compilers are faster than interpreters",
+    "D": "Interpreters generate more efficient code than compilers",
+    "correct_answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "What is the purpose of virtual memory in an operating system?",
+    "A": "Expanding the available memory by using disk space as a temporary storage",
+    "B": "Creating backups of files",
+    "C": "Managing user accounts and permissions",
+    "D": "Generating random numbers",
+    "correct_answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "What is the role of a network router?",
+    "A": "Directing network traffic between different networks",
+    "B": "Storing and retrieving data",
+    "C": "Rendering visual graphics on a computer screen",
+    "D": "Processing and executing instructions",
+    "correct_answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "What is the purpose of a relational database management system (RDBMS)?",
+    "A": "Storing and managing structured data with relationships between different tables",
+    "B": "Creating graphical user interfaces",
+    "C": "Executing complex calculations",
+    "D": "Providing network connectivity",
+    "correct_answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "What is the difference between a compiler and an assembler?",
+    "A": "Compilers are used for high-level programming languages, while assemblers are used for low-level assembly languages",
+    "B": "Compilers translate source code into machine code, while assemblers translate assembly code into machine code",
+    "C": "Compilers generate more efficient code than assemblers",
+    "D": "Assemblers are faster than compilers",
+    "correct_answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "What is the purpose of an IP address?",
+    "A": "Identifying a specific website",
+    "B": "Managing network security",
+    "C": "Providing internet access",
+    "D": "Enabling communication between devices",
+    "correct_answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "What is the difference between HTTP and HTTPS?",
+    "A": "HTTP is faster than HTTPS",
+    "B": "HTTP is more secure than HTTPS",
+    "C": "HTTP uses port 80, while HTTPS uses port 443",
+    "D": "HTTP supports encryption, while HTTPS does not",
+    "correct_answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "What is the purpose of a firewall?",
+    "A": "Filtering network traffic and preventing unauthorized access",
+    "B": "Boosting internet speed",
+    "C": "Storing backup data",
+    "D": "Managing email accounts",
+    "correct_answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "What is the function of an array in programming?",
+    "A": "Storing multiple values under a single variable",
+    "B": "Executing conditional statements",
+    "C": "Generating random numbers",
+    "D": "Displaying graphical user interfaces",
+    "correct_answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "What is the purpose of a loop in programming?",
+    "A": "Declaring variables",
+    "B": "Reading user input",
+    "C": "Repeating a set of instructions",
+    "D": "Creating graphical objects",
+    "correct_answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "What is the role of an index in a database?",
+    "A": "Storing database queries",
+    "B": "Sorting data in ascending order",
+    "C": "Defining primary and foreign keys",
+    "D": "Generating reports",
+    "correct_answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "What is the purpose of object-oriented programming (OOP)?",
+    "A": "Simplifying complex problems by modeling them as objects",
+    "B": "Optimizing database performance",
+    "C": "Creating graphical user interfaces",
+    "D": "Managing network protocols",
+    "correct_answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "What is the difference between a class and an object in object-oriented programming (OOP)?",
+    "A": "A class is a blueprint for creating objects",
+    "B": "An object is a blueprint for creating classes",
+    "C": "A class is an instance of an object",
+    "D": "An object represents a class hierarchy",
+    "correct_answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "What is the purpose of version control software in software development?",
+    "A": "Managing project schedules",
+    "B": "Tracking changes to source code",
+    "C": "Creating user interfaces",
+    "D": "Testing software applications",
+    "correct_answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "What is the role of a primary key in a database table?",
+    "A": "Ensuring data integrity",
+    "B": "Performing complex calculations",
+    "C": "Generating SQL queries",
+    "D": "Creating backups",
+    "correct_answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "What is the purpose of a join in a database query?",
+    "A": "Filtering data based on a condition",
+    "B": "Combining data from multiple tables",
+    "C": "Sorting data in descending order",
+    "D": "Updating existing records",
+    "correct_answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "What is the difference between a stack and a queue in data structures?",
+    "A": "A stack is a FIFO (First-In, First-Out) data structure, while a queue is a LIFO (Last-In, First-Out) data structure",
+    "B": "A stack is a LIFO (Last-In, First-Out) data structure, while a queue is a FIFO (First-In, First-Out) data structure",
+    "C": "A stack allows insertion and deletion at both ends, while a queue allows insertion at one end and deletion at the other end",
+    "D": "A stack allows insertion at one end and deletion at the other end, while a queue allows insertion and deletion at both ends",
+    "correct_answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "What is the purpose of recursion in programming?",
+    "A": "Performing complex calculations",
+    "B": "Optimizing database queries",
+    "C": "Repeating a function within itself",
+    "D": "Generating random numbers",
+    "correct_answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "What is the role of a cache in computer architecture?",
+    "A": "Storing backup data",
+    "B": "Managing network protocols",
+    "C": "Improving memory access speed",
+    "D": "Creating graphical user interfaces",
+    "correct_answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "What is the purpose of a binary tree in data structures?",
+    "A": "Sorting data in ascending order",
+    "B": "Performing complex calculations",
+    "C": "Storing hierarchical data",
+    "D": "Optimizing database performance",
+    "correct_answer": "C"
+  },
+  {
+    "id": 41,
+    "question": "What is the difference between synchronous and asynchronous communication?",
+    "A": "Synchronous communication requires both parties to be online at the same time, while asynchronous communication allows messages to be sent and received at different times",
+    "B": "Synchronous communication allows messages to be sent and received at different times, while asynchronous communication requires both parties to be online at the same time",
+    "C": "Synchronous communication is faster than asynchronous communication",
+    "D": "Synchronous communication is more secure than asynchronous communication",
+    "correct_answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "What is the purpose of a virtual machine (VM)?",
+    "A": "Creating backups of data",
+    "B": "Managing network security",
+    "C": "Running multiple operating systems on a single physical machine",
+    "D": "Optimizing database performance",
+    "correct_answer": "C"
+  },
+  {
+    "id": 43,
+    "question": "What is the role of a network protocol?",
+    "A": "Managing database transactions",
+    "B": "Transferring data between devices",
+    "C": "Creating graphical user interfaces",
+    "D": "Testing software applications",
+    "correct_answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "What is the purpose of a foreign key in a database table?",
+    "A": "Storing database queries",
+    "B": "Sorting data in ascending order",
+    "C": "Defining relationships between tables",
+    "D": "Generating reports",
+    "correct_answer": "C"
+  },
+  {
+    "id": 45,
+    "question": "What is the function of a pointer in programming?",
+    "A": "Storing multiple values under a single variable",
+    "B": "Accessing the memory address of a variable",
+    "C": "Generating random numbers",
+    "D": "Displaying graphical user interfaces",
+    "correct_answer": "B"
+  },
+  {
+    "id": 46,
+    "question": "What is the purpose of exception handling in programming?",
+    "A": "Creating user interfaces",
+    "B": "Optimizing database performance",
+    "C": "Handling and recovering from runtime errors",
+    "D": "Managing network protocols",
+    "correct_answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "What is the role of a compiler in programming?",
+    "A": "Translating source code into machine code",
+    "B": "Providing a development environment for programmers",
+    "C": "Debugging software applications",
+    "D": "Managing computer networks",
+    "correct_answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "What is the purpose of a relational database management system (RDBMS)?",
+    "A": "Creating backups of data",
+    "B": "Optimizing database performance",
+    "C": "Generating SQL queries",
+    "D": "Managing network security",
+    "correct_answer": "B"
+  },
+  {
+    "id": 49,
+    "question": "What is the difference between a variable and a constant in programming?",
+    "A": "A variable can be changed during program execution, while a constant remains the same",
+    "B": "A variable remains the same, while a constant can be changed during program execution",
+    "C": "A variable is used for arithmetic calculations, while a constant is used for conditional statements",
+    "D": "A variable and a constant are the same thing",
+    "correct_answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "What is the purpose of a command-line interface (CLI)?",
+    "A": "Managing computer hardware resources",
+    "B": "Providing a graphical user interface",
+    "C": "Interacting with a computer through text commands",
+    "D": "Creating backup data",
+    "correct_answer": "C"
+  }
+]

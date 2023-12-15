@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "category": "vehicles",
+    "question": "Which car manufacturer produces the Mustang?",
+    "A": "Ford",
+    "B": "Chevrolet",
+    "C": "Toyota",
+    "D": "Honda",
+    "correct_answer": "A"
+  },
+  {
+    "id": 2,
+    "category": "vehicles",
+    "question": "What is the top-selling electric car as of 2021?",
+    "A": "Tesla Model 3",
+    "B": "Nissan Leaf",
+    "C": "Chevrolet Bolt EV",
+    "D": "Hyundai Kona Electric",
+    "correct_answer": "A"
+  },
+  {
+    "id": 3,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing motorcycles?",
+    "A": "Harley-Davidson",
+    "B": "Yamaha",
+    "C": "Honda",
+    "D": "Kawasaki",
+    "correct_answer": "A"
+  },
+  {
+    "id": 4,
+    "category": "vehicles",
+    "question": "What is the world's fastest production car as of 2021?",
+    "A": "Bugatti Chiron Super Sport 300+",
+    "B": "Hennessey Venom F5",
+    "C": "Koenigsegg Jesko Absolut",
+    "D": "SSC Tuatara",
+    "correct_answer": "D"
+  },
+  {
+    "id": 5,
+    "category": "vehicles",
+    "question": "Which car brand has a model called 'Civic'?",
+    "A": "Honda",
+    "B": "Toyota",
+    "C": "Ford",
+    "D": "Chevrolet",
+    "correct_answer": "A"
+  },
+  {
+    "id": 6,
+    "category": "vehicles",
+    "question": "What is the name of the luxury car division of Toyota?",
+    "A": "Lexus",
+    "B": "Acura",
+    "C": "Infiniti",
+    "D": "Cadillac",
+    "correct_answer": "A"
+  },
+  {
+    "id": 7,
+    "category": "vehicles",
+    "question": "Which company produces the Model S electric car?",
+    "A": "Tesla",
+    "B": "Nissan",
+    "C": "Chevrolet",
+    "D": "BMW",
+    "correct_answer": "A"
+  },
+  {
+    "id": 8,
+    "category": "vehicles",
+    "question": "Which country is known for manufacturing the Mini Cooper?",
+    "A": "United Kingdom",
+    "B": "Germany",
+    "C": "Italy",
+    "D": "France",
+    "correct_answer": "A"
+  },
+  {
+    "id": 9,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian motorcycle manufacturer?",
+    "A": "Ducati",
+    "B": "Harley-Davidson",
+    "C": "Kawasaki",
+    "D": "Triumph",
+    "correct_answer": "A"
+  },
+  {
+    "id": 10,
+    "category": "vehicles",
+    "question": "Which company produces the F-150 pickup truck?",
+    "A": "Ford",
+    "B": "Chevrolet",
+    "C": "Toyota",
+    "D": "Ram",
+    "correct_answer": "A"
+  },
+  {
+    "id": 11,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian sports car manufacturer?",
+    "A": "Ferrari",
+    "B": "Lamborghini",
+    "C": "Maserati",
+    "D": "Alfa Romeo",
+    "correct_answer": "B"
+  },
+  {
+    "id": 12,
+    "category": "vehicles",
+    "question": "Which company is known for producing the Beetle?",
+    "A": "Volkswagen",
+    "B": "BMW",
+    "C": "Mercedes-Benz",
+    "D": "Audi",
+    "correct_answer": "A"
+  },
+  {
+    "id": 13,
+    "category": "vehicles",
+    "question": "What is the name of the famous motorcycle rally held annually in Sturgis, South Dakota?",
+    "A": "Sturgis Motorcycle Rally",
+    "B": "Daytona Bike Week",
+    "C": "Laconia Motorcycle Week",
+    "D": "Americade",
+    "correct_answer": "A"
+  },
+  {
+    "id": 14,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the Wrangler?",
+    "A": "Jeep",
+    "B": "Land Rover",
+    "C": "GMC",
+    "D": "Subaru",
+    "correct_answer": "A"
+  },
+  {
+    "id": 15,
+    "category": "vehicles",
+    "question": "What is the name of the Japanese motorcycle manufacturer known for its sport bikes?",
+    "A": "Honda",
+    "B": "Kawasaki",
+    "C": "Suzuki",
+    "D": "Yamaha",
+    "correct_answer": "B"
+  },
+  {
+    "id": 16,
+    "category": "vehicles",
+    "question": "Which company produces the Silverado pickup truck?",
+    "A": "Chevrolet",
+    "B": "Ford",
+    "C": "Ram",
+    "D": "GMC",
+    "correct_answer": "A"
+  },
+  {
+    "id": 17,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian scooter manufacturer?",
+    "A": "Vespa",
+    "B": "Aprilia",
+    "C": "Piaggio",
+    "D": "Ducati",
+    "correct_answer": "A"
+  },
+  {
+    "id": 18,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the 911 sports car?",
+    "A": "Porsche",
+    "B": "Ferrari",
+    "C": "Aston Martin",
+    "D": "Jaguar",
+    "correct_answer": "A"
+  },
+  {
+    "id": 19,
+    "category": "vehicles",
+    "question": "What is the name of the famous American motorcycle manufacturer?",
+    "A": "Harley-Davidson",
+    "B": "Indian",
+    "C": "Victory",
+    "D": "Big Dog",
+    "correct_answer": "A"
+  },
+  {
+    "id": 20,
+    "category": "vehicles",
+    "question": "Which company produces the Prius hybrid car?",
+    "A": "Toyota",
+    "B": "Honda",
+    "C": "Nissan",
+    "D": "Ford",
+    "correct_answer": "A"
+  },
+  {
+    "id": 21,
+    "category": "vehicles",
+    "question": "What is the name of the famous German motorcycle manufacturer?",
+    "A": "BMW",
+    "B": "KTM",
+    "C": "Triumph",
+    "D": "Ducati",
+    "correct_answer": "A"
+  },
+  {
+    "id": 22,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the Mustang Shelby GT500?",
+    "A": "Ford",
+    "B": "Chevrolet",
+    "C": "Dodge",
+    "D": "Pontiac",
+    "correct_answer": "A"
+  },
+  {
+    "id": 23,
+    "category": "vehicles",
+    "question": "What is the name of the famous British luxury car manufacturer?",
+    "A": "Rolls-Royce",
+    "B": "Bentley",
+    "C": "Aston Martin",
+    "D": "Jaguar",
+    "correct_answer": "B"
+  },
+  {
+    "id": 24,
+    "category": "vehicles",
+    "question": "Which country is known for manufacturing the Corvette?",
+    "A": "United States",
+    "B": "Germany",
+    "C": "Italy",
+    "D": "France",
+    "correct_answer": "A"
+  },
+  {
+    "id": 25,
+    "category": "vehicles",
+    "question": "What is the name of the famous American electric car manufacturer?",
+    "A": "Tesla",
+    "B": "Rivian",
+    "C": "Lucid",
+    "D": "Faraday Future",
+    "correct_answer": "A"
+  },
+  {
+    "id": 26,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the Camry?",
+    "A": "Toyota",
+    "B": "Honda",
+    "C": "Nissan",
+    "D": "Mazda",
+    "correct_answer": "A"
+  },
+  {
+    "id": 27,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian racing car manufacturer?",
+    "A": "Ferrari",
+    "B": "Lamborghini",
+    "C": "Maserati",
+    "D": "Alfa Romeo",
+    "correct_answer": "A"
+  },
+  {
+    "id": 28,
+    "category": "vehicles",
+    "question": "Which company produces the Range Rover?",
+    "A": "Land Rover",
+    "B": "Jeep",
+    "C": "GMC",
+    "D": "Subaru",
+    "correct_answer": "A"
+  },
+  {
+    "id": 29,
+    "category": "vehicles",
+    "question": "What is the name of the famous motorcycle manufacturer known for its cruisers?",
+    "A": "Harley-Davidson",
+    "B": "Kawasaki",
+    "C": "Honda",
+    "D": "Suzuki",
+    "correct_answer": "A"
+  },
+  {
+    "id": 30,
+    "category": "vehicles",
+    "question": "Which company produces the Tacoma pickup truck?",
+    "A": "Toyota",
+    "B": "Ford",
+    "C": "Chevrolet",
+    "D": "Nissan",
+    "correct_answer": "A"
+  },
+  {
+    "id": 31,
+    "category": "vehicles",
+    "question": "What is the name of the famous American muscle car manufacturer?",
+    "A": "Dodge",
+    "B": "Chevrolet",
+    "C": "Ford",
+    "D": "Pontiac",
+    "correct_answer": "A"
+  },
+  {
+    "id": 32,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the i3 electric car?",
+    "A": "BMW",
+    "B": "Mercedes-Benz",
+    "C": "Audi",
+    "D": "Volkswagen",
+    "correct_answer": "A"
+  },
+  {
+    "id": 33,
+    "category": "vehicles",
+    "question": "What is the name of the famous Japanese tuner and aftermarket parts manufacturer?",
+    "A": "Mugen",
+    "B": "TRD",
+    "C": "Nismo",
+    "D": "HKS",
+    "correct_answer": "A"
+  },
+  {
+    "id": 34,
+    "category": "vehicles",
+    "question": "Which country is known for manufacturing the Aventador?",
+    "A": "Italy",
+    "B": "Germany",
+    "C": "United Kingdom",
+    "D": "United States",
+    "correct_answer": "A"
+  },
+  {
+    "id": 35,
+    "category": "vehicles",
+    "question": "What is the name of the famous British motorcycle manufacturer?",
+    "A": "Triumph",
+    "B": "Norton",
+    "C": "Ducati",
+    "D": "Brough Superior",
+    "correct_answer": "A"
+  },
+  {
+    "id": 36,
+    "category": "vehicles",
+    "question": "Which company produces the Outback crossover SUV?",
+    "A": "Subaru",
+    "B": "Toyota",
+    "C": "Honda",
+    "D": "Nissan",
+    "correct_answer": "A"
+  },
+  {
+    "id": 37,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian motorcycle manufacturer known for its scooters?",
+    "A": "Vespa",
+    "B": "Aprilia",
+    "C": "Piaggio",
+    "D": "Ducati",
+    "correct_answer": "A"
+  },
+  {
+    "id": 38,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the Corvette ZR1?",
+    "A": "Chevrolet",
+    "B": "Ford",
+    "C": "Dodge",
+    "D": "Pontiac",
+    "correct_answer": "A"
+  },
+  {
+    "id": 39,
+    "category": "vehicles",
+    "question": "What is the name of the famous German sports car manufacturer?",
+    "A": "Porsche",
+    "B": "Ferrari",
+    "C": "Aston Martin",
+    "D": "Jaguar",
+    "correct_answer": "A"
+  },
+  {
+    "id": 40,
+    "category": "vehicles",
+    "question": "Which company produces the CR-V SUV?",
+    "A": "Honda",
+    "B": "Toyota",
+    "C": "Nissan",
+    "D": "Mazda",
+    "correct_answer": "A"
+  },
+  {
+    "id": 41,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian motorcycle manufacturer known for its sport touring bikes?",
+    "A": "Ducati",
+    "B": "Aprilia",
+    "C": "Moto Guzzi",
+    "D": "MV Agusta",
+    "correct_answer": "A"
+  },
+  {
+    "id": 42,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the Explorer?",
+    "A": "Ford",
+    "B": "Chevrolet",
+    "C": "Toyota",
+    "D": "Jeep",
+    "correct_answer": "A"
+  },
+  {
+    "id": 43,
+    "category": "vehicles",
+    "question": "What is the name of the famous British sports car manufacturer?",
+    "A": "Aston Martin",
+    "B": "Lotus",
+    "C": "Jaguar",
+    "D": "Morgan",
+    "correct_answer": "B"
+  },
+  {
+    "id": 44,
+    "category": "vehicles",
+    "question": "Which country is known for manufacturing the C-Class?",
+    "A": "Germany",
+    "B": "United States",
+    "C": "Japan",
+    "D": "United Kingdom",
+    "correct_answer": "A"
+  },
+  {
+    "id": 45,
+    "category": "vehicles",
+    "question": "What is the name of the famous American pickup truck manufacturer?",
+    "A": "Ford",
+    "B": "Chevrolet",
+    "C": "Ram",
+    "D": "GMC",
+    "correct_answer": "C"
+  },
+  {
+    "id": 46,
+    "category": "vehicles",
+    "question": "Which company produces the RAV4 SUV?",
+    "A": "Toyota",
+    "B": "Honda",
+    "C": "Nissan",
+    "D": "Mazda",
+    "correct_answer": "A"
+  },
+  {
+    "id": 47,
+    "category": "vehicles",
+    "question": "What is the name of the famous Italian bicycle and motorcycle manufacturer?",
+    "A": "Ducati",
+    "B": "Aprilia",
+    "C": "Piaggio",
+    "D": "Bianchi",
+    "correct_answer": "D"
+  },
+  {
+    "id": 48,
+    "category": "vehicles",
+    "question": "Which company is known for manufacturing the Challenger?",
+    "A": "Dodge",
+    "B": "Chevrolet",
+    "C": "Ford",
+    "D": "Pontiac",
+    "correct_answer": "A"
+  },
+  {
+    "id": 49,
+    "category": "vehicles",
+    "question": "What is the name of the famous American motorcycle manufacturer known for its touring bikes?",
+    "A": "Harley-Davidson",
+    "B": "Kawasaki",
+    "C": "Honda",
+    "D": "Indian",
+    "correct_answer": "A"
+  },
+  {
+    "id": 50,
+    "category": "vehicles",
+    "question": "Which company produces the XC90 SUV?",
+    "A": "Volvo",
+    "B": "Audi",
+    "C": "BMW",
+    "D": "Mercedes-Benz",
+    "correct_answer": "A"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "category": "animal",
+    "question": "What is the largest land animal on Earth?",
+    "A": "Elephant",
+    "B": "Giraffe",
+    "C": "Rhinoceros",
+    "D": "Hippopotamus",
+    "correct_answer": "A"
+  },
+  {
+    "id": 2,
+    "category": "animal",
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "A": "Parrot",
+    "B": "Penguin",
+    "C": "Eagle",
+    "D": "Ostrich",
+    "correct_answer": "A"
+  },
+  {
+    "id": 3,
+    "category": "animal",
+    "question": "What is the fastest land animal?",
+    "A": "Cheetah",
+    "B": "Lion",
+    "C": "Gazelle",
+    "D": "Jaguar",
+    "correct_answer": "A"
+  },
+  {
+    "id": 4,
+    "category": "animal",
+    "question": "Which animal is known for its ability to camouflage itself in its surroundings?",
+    "A": "Chameleon",
+    "B": "Octopus",
+    "C": "Cuttlefish",
+    "D": "Leafy seadragon",
+    "correct_answer": "A"
+  },
+  {
+    "id": 5,
+    "category": "animal",
+    "question": "Which animal has the longest lifespan?",
+    "A": "Galapagos tortoise",
+    "B": "Elephant",
+    "C": "Bowhead whale",
+    "D": "Giant tortoise",
+    "correct_answer": "A"
+  },
+  {
+    "id": 6,
+    "category": "animal",
+    "question": "What is the largest species of shark?",
+    "A": "Great white shark",
+    "B": "Whale shark",
+    "C": "Tiger shark",
+    "D": "Hammerhead shark",
+    "correct_answer": "B"
+  },
+  {
+    "id": 7,
+    "category": "animal",
+    "question": "Which animal is known for its black and white stripes?",
+    "A": "Zebra",
+    "B": "Tiger",
+    "C": "Giraffe",
+    "D": "Panda",
+    "correct_answer": "A"
+  },
+  {
+    "id": 8,
+    "category": "animal",
+    "question": "What is the smallest species of monkey?",
+    "A": "Pygmy marmoset",
+    "B": "Tamarin",
+    "C": "Squirrel monkey",
+    "D": "Capuchin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 9,
+    "category": "animal",
+    "question": "Which animal is known for its ability to glide between trees?",
+    "A": "Flying squirrel",
+    "B": "Kangaroo",
+    "C": "Koala",
+    "D": "Sloth",
+    "correct_answer": "A"
+  },
+  {
+    "id": 10,
+    "category": "animal",
+    "question": "What is the tallest living animal on Earth?",
+    "A": "Giraffe",
+    "B": "Elephant",
+    "C": "Gorilla",
+    "D": "Horse",
+    "correct_answer": "A"
+  },
+  {
+    "id": 11,
+    "category": "animal",
+    "question": "Which animal is known for its hump or humps on its back?",
+    "A": "Camel",
+    "B": "Horse",
+    "C": "Zebra",
+    "D": "Giraffe",
+    "correct_answer": "A"
+  },
+  {
+    "id": 12,
+    "category": "animal",
+    "question": "What is the largest species of penguin?",
+    "A": "Emperor penguin",
+    "B": "King penguin",
+    "C": "Gentoo penguin",
+    "D": "Adelie penguin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 13,
+    "category": "animal",
+    "question": "Which animal is known for its ability to change color?",
+    "A": "Chameleon",
+    "B": "Lizard",
+    "C": "Snake",
+    "D": "Frog",
+    "correct_answer": "A"
+  },
+  {
+    "id": 14,
+    "category": "animal",
+    "question": "What is the largest species of bear?",
+    "A": "Polar bear",
+    "B": "Grizzly bear",
+    "C": "Kodiak bear",
+    "D": "Black bear",
+    "correct_answer": "C"
+  },
+  {
+    "id": 15,
+    "category": "animal",
+    "question": "Which animal is known for its ability to regrow its tail?",
+    "A": "Lizard",
+    "B": "Turtle",
+    "C": "Snake",
+    "D": "Frog",
+    "correct_answer": "A"
+  },
+  {
+    "id": 16,
+    "category": "animal",
+    "question": "What is the largest species of snake?",
+    "A": "Anaconda",
+    "B": "Reticulated python",
+    "C": "King cobra",
+    "D": "Boa constrictor",
+    "correct_answer": "A"
+  },
+  {
+    "id": 17,
+    "category": "animal",
+    "question": "Which animal is known for its ability to walk on water?",
+    "A": "Jesus Christ lizard",
+    "B": "Duck",
+    "C": "Frog",
+    "D": "Snail",
+    "correct_answer": "A"
+  },
+  {
+    "id": 18,
+    "category": "animal",
+    "question": "What is the largest species of eagle?",
+    "A": "Harpy eagle",
+    "B": "Bald eagle",
+    "C": "Golden eagle",
+    "D": "Steller's sea eagle",
+    "correct_answer": "A"
+  },
+  {
+    "id": 19,
+    "category": "animal",
+    "question": "Which animal is known for its ability to produce web to catch its prey?",
+    "A": "Spider",
+    "B": "Scorpion",
+    "C": "Centipede",
+    "D": "Beetle",
+    "correct_answer": "A"
+  },
+  {
+    "id": 20,
+    "category": "animal",
+    "question": "What is the largest species of kangaroo?",
+    "A": "Red kangaroo",
+    "B": "Grey kangaroo",
+    "C": "Eastern grey kangaroo",
+    "D": "Western grey kangaroo",
+    "correct_answer": "A"
+  },
+  {
+    "id": 21,
+    "category": "animal",
+    "question": "Which animal is known for its ability to roll into a protective ball?",
+    "A": "Armadillo",
+    "B": "Hedgehog",
+    "C": "Porcupine",
+    "D": "Turtle",
+    "correct_answer": "B"
+  },
+  {
+    "id": 22,
+    "category": "animal",
+    "question": "What is the largest species of deer?",
+    "A": "Elk",
+    "B": "Moose",
+    "C": "White-tailed deer",
+    "D": "Red deer",
+    "correct_answer": "B"
+  },
+  {
+    "id": 23,
+    "category": "animal",
+    "question": "Which animal is known for its ability to climb trees?",
+    "A": "Monkey",
+    "B": "Sloth",
+    "C": "Bear",
+    "D": "Lion",
+    "correct_answer": "B"
+  },
+  {
+    "id": 24,
+    "category": "animal",
+    "question": "What is the smallest species of whale?",
+    "A": "Dwarf sperm whale",
+    "B": "Pygmy sperm whale",
+    "C": "Beluga whale",
+    "D": "Humpback whale",
+    "correct_answer": "B"
+  },
+  {
+    "id": 25,
+    "category": "animal",
+    "question": "Which animal is known for its ability to regrow its limbs?",
+    "A": "Starfish",
+    "B": "Salamander",
+    "C": "Crab",
+    "D": "Lizard",
+    "correct_answer": "B"
+  },
+  {
+    "id": 26,
+    "category": "animal",
+    "question": "What is the largest species of pufferfish?",
+    "A": "Giant pufferfish",
+    "B": "Porcupine pufferfish",
+    "C": "Boxfish",
+    "D": "Balloonfish",
+    "correct_answer": "A"
+  },
+  {
+    "id": 27,
+    "category": "animal",
+    "question": "Which animal is known for its ability to produce venom?",
+    "A": "Snake",
+    "B": "Spider",
+    "C": "Scorpion",
+    "D": "Jellyfish",
+    "correct_answer": "C"
+  },
+  {
+    "id": 28,
+    "category": "animal",
+    "question": "What is the largest species of octopus?",
+    "A": "Giant Pacific octopus",
+    "B": "Blue-ringed octopus",
+    "C": "Common octopus",
+    "D": "Mimic octopus",
+    "correct_answer": "A"
+  },
+  {
+    "id": 29,
+    "category": "animal",
+    "question": "Which animal is known for its ability to change its sex?",
+    "A": "Clownfish",
+    "B": "Seahorse",
+    "C": "Parrotfish",
+    "D": "Angelfish",
+    "correct_answer": "C"
+  },
+  {
+    "id": 30,
+    "category": "animal",
+    "question": "What is the largest species of crab?",
+    "A": "Japanese spider crab",
+    "B": "Blue crab",
+    "C": "Dungeness crab",
+    "D": "Snow crab",
+    "correct_answer": "A"
+  },
+  {
+    "id": 31,
+    "category": "animal",
+    "question": "Which animal is known for its ability to regrow its teeth throughout its lifetime?",
+    "A": "Shark",
+    "B": "Crocodile",
+    "C": "Dolphin",
+    "D": "Elephant",
+    "correct_answer": "A"
+  },
+  {
+    "id": 32,
+    "category": "animal",
+    "question": "What is the smallest species of dolphin?",
+    "A": "Vaquita",
+    "B": "Dusky dolphin",
+    "C": "Bottlenose dolphin",
+    "D": "Common dolphin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 33,
+    "category": "animal",
+    "question": "Which animal is known for its ability to emit light?",
+    "A": "Firefly",
+    "B": "Glowworm",
+    "C": "Anglerfish",
+    "D": "Jellyfish",
+    "correct_answer": "C"
+  },
+  {
+    "id": 34,
+    "category": "animal",
+    "question": "What is the largest species of lizard?",
+    "A": "Komodo dragon",
+    "B": "Monitor lizard",
+    "C": "Gila monster",
+    "D": "Iguana",
+    "correct_answer": "A"
+  },
+  {
+    "id": 35,
+    "category": "animal",
+    "question": "Which animal is known for its ability to build intricate dams and lodges?",
+    "A": "Beaver",
+    "B": "Muskrat",
+    "C": "Nutria",
+    "D": "Otter",
+    "correct_answer": "A"
+  },
+  {
+    "id": 36,
+    "category": "animal",
+    "question": "What is the largest species of frog?",
+    "A": "Goliath frog",
+    "B": "African bullfrog",
+    "C": "Poison dart frog",
+    "D": "Tree frog",
+    "correct_answer": "A"
+  },
+  {
+    "id": 37,
+    "category": "animal",
+    "question": "Which animal is known for its ability to echolocate?",
+    "A": "Bat",
+    "B": "Whale",
+    "C": "Dolphin",
+    "D": "Moth",
+    "correct_answer": "A"
+  },
+  {
+    "id": 38,
+    "category": "animal",
+    "question": "What is the smallest species of penguin?",
+    "A": "Little blue penguin",
+    "B": "Rockhopper penguin",
+    "C": "Adelie penguin",
+    "D": "Chinstrap penguin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 39,
+    "category": "animal",
+    "question": "Which animal is known for its ability to regenerate its limbs?",
+    "A": "Starfish",
+    "B": "Lizard",
+    "C": "Crab",
+    "D": "Jellyfish",
+    "correct_answer": "A"
+  },
+  {
+    "id": 40,
+    "category": "animal",
+    "question": "What is the largest species of eagle?",
+    "A": "Philippine eagle",
+    "B": "Bald eagle",
+    "C": "Golden eagle",
+    "D": "Harpy eagle",
+    "correct_answer": "A"
+  },
+  {
+    "id": 41,
+    "category": "animal",
+    "question": "Which animal is known for its ability to produce silk?",
+    "A": "Spider",
+    "B": "Ant",
+    "C": "Caterpillar",
+    "D": "Butterfly",
+    "correct_answer": "A"
+  },
+  {
+    "id": 42,
+    "category": "animal",
+    "question": "What is the largest species of shark?",
+    "A": "Whale shark",
+    "B": "Great white shark",
+    "C": "Tiger shark",
+    "D": "Hammerhead shark",
+    "correct_answer": "A"
+  },
+ {
+    "id": 43,
+    "category": "animal",
+    "question": "Which animal is known for its ability to camouflage itself by changing its skin color?",
+    "A": "Chameleon",
+    "B": "Octopus",
+    "C": "Cuttlefish",
+    "D": "Leaf insect",
+    "correct_answer": "A"
+  },
+  {
+    "id": 44,
+    "category": "animal",
+    "question": "What is the smallest species of monkey?",
+    "A": "Pygmy marmoset",
+    "B": "Tamarin",
+    "C": "Capuchin",
+    "D": "Squirrel monkey",
+    "correct_answer": "A"
+  },
+  {
+    "id": 45,
+    "category": "animal",
+    "question": "Which animal is known for its ability to glide through the air?",
+    "A": "Flying squirrel",
+    "B": "Bat",
+    "C": "Sugar glider",
+    "D": "Flying fish",
+    "correct_answer": "A"
+  },
+  {
+    "id": 46,
+    "category": "animal",
+    "question": "What is the largest species of kangaroo?",
+    "A": "Red kangaroo",
+    "B": "Grey kangaroo",
+    "C": "Eastern grey kangaroo",
+    "D": "Western grey kangaroo",
+    "correct_answer": "A"
+  },
+  {
+    "id": 47,
+    "category": "animal",
+    "question": "Which animal is known for its ability to roll into a protective ball?",
+    "A": "Armadillo",
+    "B": "Hedgehog",
+    "C": "Porcupine",
+    "D": "Turtle",
+    "correct_answer": "B"
+  },
+  {
+    "id": 48,
+    "category": "animal",
+    "question": "What is the largest species of deer?",
+    "A": "Elk",
+    "B": "Moose",
+    "C": "White-tailed deer",
+    "D": "Red deer",
+    "correct_answer": "B"
+  },
+  {
+    "id": 49,
+    "category": "animal",
+    "question": "Which animal is known for its ability to climb trees?",
+    "A": "Monkey",
+    "B": "Sloth",
+    "C": "Bear",
+    "D": "Lion",
+    "correct_answer": "B"
+  },
+  {
+    "id": 50,
+    "category": "animal",
+    "question": "What is the smallest species of whale?",
+    "A": "Dwarf sperm whale",
+    "B": "Pygmy sperm whale",
+    "C": "Beluga whale",
+    "D": "Humpback whale",
+    "correct_answer": "B"
+  }
+]

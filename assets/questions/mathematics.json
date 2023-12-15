@@ -1,0 +1,502 @@
+[
+  {
+    "id": 51,
+    "category": "mathematics",
+    "question": "What is the value of pi (π)?",
+    "A": "3.14",
+    "B": "2.71",
+    "C": "1.62",
+    "D": "4.79",
+    "correct_answer": "A"
+  },
+  {
+    "id": 52,
+    "category": "mathematics",
+    "question": "What is the square root of 64?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "correct_answer": "C"
+  },
+  {
+    "id": 53,
+    "category": "mathematics",
+    "question": "What is the result of 5 multiplied by 9?",
+    "A": "35",
+    "B": "40",
+    "C": "45",
+    "D": "50",
+    "correct_answer": "C"
+  },
+  {
+    "id": 54,
+    "category": "mathematics",
+    "question": "What is the sum of angles in a triangle?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "360 degrees",
+    "correct_answer": "B"
+  },
+  {
+    "id": 55,
+    "category": "mathematics",
+    "question": "What is the result of 8 divided by 2?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "correct_answer": "C"
+  },
+  {
+    "id": 56,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 25?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "correct_answer": "C"
+  },
+  {
+    "id": 57,
+    "category": "mathematics",
+    "question": "What is the result of 3 plus 7 minus 2?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "correct_answer": "C"
+  },
+  {
+    "id": 58,
+    "category": "mathematics",
+    "question": "What is the value of 2 to the power of 4?",
+    "A": "4",
+    "B": "8",
+    "C": "16",
+    "D": "32",
+    "correct_answer": "C"
+  },
+  {
+    "id": 59,
+    "category": "mathematics",
+    "question": "What is the result of 12 multiplied by 3?",
+    "A": "24",
+    "B": "36",
+    "C": "48",
+    "D": "60",
+    "correct_answer": "B"
+  },
+  {
+    "id": 60,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 9?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "correct_answer": "C"
+  },
+  {
+    "id": 61,
+    "category": "mathematics",
+    "question": "What is the result of 10 divided by 5?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "correct_answer": "B"
+  },
+  {
+    "id": 62,
+    "category": "mathematics",
+    "question": "What is the sum of angles in a quadrilateral?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "360 degrees",
+    "correct_answer": "D"
+  },
+  {
+    "id": 63,
+    "category": "mathematics",
+    "question": "What is the result of 6 plus 8 minus 4?",
+    "A": "8",
+    "B": "10",
+    "C": "12",
+    "D": "14",
+    "correct_answer": "C"
+  },
+  {
+    "id": 64,
+    "category": "mathematics",
+    "question": "What is the value of 3 to the power of 2?",
+    "A": "3",
+    "B": "6",
+    "C": "9",
+    "D": "12",
+    "correct_answer": "C"
+  },
+  {
+    "id": 65,
+    "category": "mathematics",
+    "question": "What is the result of 7 multiplied by 5?",
+    "A": "30",
+    "B": "35",
+    "C": "40",
+    "D": "45",
+    "correct_answer": "B"
+  },
+  {
+    "id": 66,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 16?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8",
+    "correct_answer": "B"
+  },
+  {
+    "id": 67,
+    "category": "mathematics",
+    "question": "What is the result of 9 plus 6 minus 3?",
+    "A": "10",
+    "B": "12",
+    "C": "14",
+    "D": "16",
+    "correct_answer": "B"
+  },
+  {
+    "id": 68,
+    "category": "mathematics",
+    "question": "What is the value of 2 to the power of 5?",
+    "A": "8",
+    "B": "16",
+    "C": "32",
+    "D": "64",
+    "correct_answer": "C"
+  },
+  {
+    "id": 69,
+    "category": "mathematics",
+    "question": "What is the result of 15 multiplied by 2?",
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "40",
+    "correct_answer": "B"
+  },
+  {
+    "id": 70,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 4?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "correct_answer": "B"
+  },
+  {
+    "id": 71,
+    "category": "mathematics",
+    "question": "What is the result of 12 divided by 6?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "correct_answer": "B"
+  },
+  {
+    "id": 72,
+    "category": "mathematics",
+    "question": "What is the sum of angles in a pentagon?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "540 degrees",
+    "correct_answer": "D"
+  },
+  {
+    "id": 73,
+    "category": "mathematics",
+    "question": "What is the result of 5 plus 4 minus 2?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "correct_answer": "C"
+  },
+  {
+    "id": 74,
+    "category": "mathematics",
+    "question": "What is the value of 4 to the power of 3?",
+    "A": "8",
+    "B": "12",
+    "C": "16",
+    "D": "24",
+    "correct_answer": "C"
+  },
+  {
+    "id": 75,
+    "category": "mathematics",
+    "question": "What is the result of 9 multiplied by 7?",
+    "A": "63",
+    "B": "70",
+    "C": "77",
+    "D": "84",
+    "correct_answer": "A"
+  },
+  {
+    "id": 76,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 36?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "12",
+    "correct_answer": "B"
+  },
+  {
+    "id": 77,
+    "category": "mathematics",
+    "question": "What is the result of 8 plus 5 minus 3?",
+    "A": "8",
+    "B": "10",
+    "C": "12",
+    "D": "14",
+    "correct_answer": "B"
+  },
+  {
+    "id": 78,
+    "category": "mathematics",
+    "question": "What is the value of 2 to the power of 6?",
+    "A": "16",
+    "B": "32",
+    "C": "64",
+    "D": "128",
+    "correct_answer": "C"
+  },
+  {
+    "id": 79,
+    "category": "mathematics",
+    "question": "What is the result of 10 multiplied by 4?",
+    "A": "30",
+    "B": "40",
+    "C": "50",
+    "D": "60",
+    "correct_answer": "B"
+  },
+  {
+    "id": 80,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 49?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "correct_answer": "C"
+  },
+  {
+    "id": 81,
+    "category": "mathematics",
+    "question": "What is the result of 6 plus 9 minus 5?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "correct_answer": "C"
+  },
+  {
+    "id": 82,
+    "category": "mathematics",
+    "question": "What is the value of 3 to the power of 4?",
+    "A": "6",
+    "B": "9",
+    "C": "12",
+    "D": "27",
+    "correct_answer": "D"
+  },
+  {
+    "id": 83,
+    "category": "mathematics",
+    "question": "What is the result of 7 multiplied by 8?",
+    "A": "42",
+    "B": "48",
+    "C": "56",
+    "D": "64",
+    "correct_answer": "C"
+  },
+  {
+    "id": 84,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 64?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "correct_answer": "C"
+  },
+  {
+    "id": 85,
+    "category": "mathematics",
+    "question": "What is the result of 4 plus 6 minus 2?",
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "correct_answer": "C"
+  },
+  {
+    "id": 86,
+    "category": "mathematics",
+    "question": "What is the value of 2 to the power of 7?",
+    "A": "32",
+    "B": "64",
+    "C": "128",
+    "D": "256",
+    "correct_answer": "C"
+  },
+  {
+    "id": 87,
+    "category": "mathematics",
+    "question": "What is the result of 8 multiplied by 9?",
+    "A": "63",
+    "B": "64",
+    "C": "72",
+    "D": "81",
+    "correct_answer": "D"
+  },
+  {
+    "id": 88,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 81?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "correct_answer": "C"
+  },
+  {
+    "id": 89,
+    "category": "mathematics",
+    "question": "What is the result of 6 plus 7 minus 3?",
+    "A": "8",
+    "B": "10",
+    "C": "11",
+    "D": "13",
+    "correct_answer": "C"
+  },
+  {
+    "id": 90,
+    "category": "mathematics",
+    "question": "What is the value of 3 to the power of 3?",
+    "A": "6",
+    "B": "9",
+    "C": "12",
+    "D": "27",
+    "correct_answer": "D"
+  },
+  {
+    "id": 91,
+    "category": "mathematics",
+    "question": "What is the result of 9 multiplied by 8?",
+    "A": "64",
+    "B": "72",
+    "C": "80",
+    "D": "96",
+    "correct_answer": "B"
+  },
+  {
+    "id": 92,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 100?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "correct_answer": "C"
+  },
+  {
+    "id": 93,
+    "category": "mathematics",
+    "question": "What is the result of 7 plus 9 minus 4?",
+    "A": "10",
+    "B": "12",
+    "C": "14",
+    "D": "16",
+    "correct_answer": "C"
+  },
+  {
+    "id": 94,
+    "category": "mathematics",
+    "question": "What is the value of 2 to the power of 8?",
+    "A": "64",
+    "B": "128",
+    "C": "256",
+    "D": "512",
+    "correct_answer": "C"
+  },
+  {
+    "id": 95,
+    "category": "mathematics",
+    "question": "What is the result of 10 multiplied by 7?",
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "90",
+    "correct_answer": "B"
+  },
+  {
+    "id": 96,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 144?",
+    "A": "10",
+    "B": "12",
+    "C": "14",
+    "D": "16",
+    "correct_answer": "B"
+  },
+  {
+    "id": 97,
+    "category": "mathematics",
+    "question": "What is the result of 8 plus 8 minus 4?",
+    "A": "8",
+    "B": "10",
+    "C": "12",
+    "D": "14",
+    "correct_answer": "C"
+  },
+  {
+    "id": 98,
+    "category": "mathematics",
+    "question": "What is the value of 2 to the power of 9?",
+    "A": "256",
+    "B": "512",
+    "C": "1024",
+    "D": "2048",
+    "correct_answer": "C"
+  },
+  {
+    "id": 99,
+    "category": "mathematics",
+    "question": "What is the result of 12 multiplied by 8?",
+    "A": "84",
+    "B": "96",
+    "C": "108",
+    "D": "120",
+    "correct_answer": "B"
+  },
+  {
+    "id": 100,
+    "category": "mathematics",
+    "question": "What is the value of the square root of 169?",
+    "A": "11",
+    "B": "12",
+    "C": "13",
+    "D": "14",
+    "correct_answer": "C"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "category": "history",
+    "question": "Which war was fought between the North and the South regions of the United States from 1861 to 1865?",
+    "A": "World War I",
+    "B": "American Revolution",
+    "C": "Civil War",
+    "D": "World War II",
+    "correct_answer": "C"
+  },
+  {
+    "id": 2,
+    "category": "history",
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "A": "1492",
+    "B": "1517",
+    "C": "1620",
+    "D": "1776",
+    "correct_answer": "A"
+  },
+  {
+    "id": 3,
+    "category": "history",
+    "question": "Who was the first President of the United States?",
+    "A": "Thomas Jefferson",
+    "B": "George Washington",
+    "C": "Abraham Lincoln",
+    "D": "John Adams",
+    "correct_answer": "B"
+  },
+  {
+    "id": 4,
+    "category": "history",
+    "question": "Which country was ruled by Adolf Hitler during World War II?",
+    "A": "Italy",
+    "B": "Germany",
+    "C": "Japan",
+    "D": "United Kingdom",
+    "correct_answer": "B"
+  },
+  {
+    "id": 5,
+    "category": "history",
+    "question": "When did the French Revolution begin?",
+    "A": "1776",
+    "B": "1789",
+    "C": "1804",
+    "D": "1848",
+    "correct_answer": "B"
+  },
+  {
+    "id": 6,
+    "category": "history",
+    "question": "Who was the last Tsar of Russia?",
+    "A": "Nicholas II",
+    "B": "Ivan the Terrible",
+    "C": "Peter the Great",
+    "D": "Vladimir Lenin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 7,
+    "category": "history",
+    "question": "Which ancient civilization built the Machu Picchu citadel in Peru?",
+    "A": "Maya",
+    "B": "Aztec",
+    "C": "Inca",
+    "D": "Egyptian",
+    "correct_answer": "C"
+  },
+  {
+    "id": 8,
+    "category": "history",
+    "question": "In which year did World War I start?",
+    "A": "1914",
+    "B": "1917",
+    "C": "1939",
+    "D": "1941",
+    "correct_answer": "A"
+  },
+  {
+    "id": 9,
+    "category": "history",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "A": "Margaret Thatcher",
+    "B": "Angela Merkel",
+    "C": "Theresa May",
+    "D": "Jacinda Ardern",
+    "correct_answer": "A"
+  },
+  {
+    "id": 10,
+    "category": "history",
+    "question": "Which document declared the thirteen American colonies independent from Great Britain?",
+    "A": "Declaration of Independence",
+    "B": "Magna Carta",
+    "C": "Emancipation Proclamation",
+    "D": "Articles of Confederation",
+    "correct_answer": "A"
+  },
+  {
+    "id": 11,
+    "category": "history",
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "A": "Athens",
+    "B": "Rome",
+    "C": "Constantinople",
+    "D": "Alexandria",
+    "correct_answer": "C"
+  },
+  {
+    "id": 12,
+    "category": "history",
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "A": "Joseph Stalin",
+    "B": "Vladimir Lenin",
+    "C": "Leon Trotsky",
+    "D": "Nikita Khrushchev",
+    "correct_answer": "A"
+  },
+  {
+    "id": 13,
+    "category": "history",
+    "question": "When was the Magna Carta signed?",
+    "A": "1215",
+    "B": "1348",
+    "C": "1492",
+    "D": "1776",
+    "correct_answer": "A"
+  },
+  {
+    "id": 14,
+    "category": "history",
+    "question": "Which country did the United States acquire the Louisiana Purchase from in 1803?",
+    "A": "Spain",
+    "B": "France",
+    "C": "Mexico",
+    "D": "Canada",
+    "correct_answer": "B"
+  },
+  {
+    "id": 15,
+    "category": "history",
+    "question": "Who was the leader of the Bolshevik Party during the Russian Revolution?",
+    "A": "Vladimir Lenin",
+    "B": "Joseph Stalin",
+    "C": "Leon Trotsky",
+    "D": "Nikita Khrushchev",
+    "correct_answer": "A"
+  },
+  {
+    "id": 16,
+    "category": "history",
+    "question": "Which event marked the beginning of World War II?",
+    "A": "Bombing of Pearl Harbor",
+    "B": "Invasion of Poland",
+    "C": "Battle of Stalingrad",
+    "D": "Dropping of atomic bombs on Hiroshima and Nagasaki",
+    "correct_answer": "B"
+  },
+  {
+    "id": 17,
+    "category": "history",
+    "question": "Who wrote the Communist Manifesto?",
+    "A": "Karl Marx",
+    "B": "Friedrich Engels",
+    "C": "Vladimir Lenin",
+    "D": "Joseph Stalin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 18,
+    "category": "history",
+    "question": "Which ancient civilization built the Great Wall of China?",
+    "A": "Persian Empire",
+    "B": "Roman Empire",
+    "C": "Greek Empire",
+    "D": "Chinese Empire",
+    "correct_answer": "D"
+  },
+  {
+    "id": 19,
+    "category": "history",
+    "question": "When did the Renaissance period occur?",
+    "A": "13th-14th centuries",
+    "B": "15th-16th centuries",
+    "C": "17th-18th centuries",
+    "D": "19th-20th centuries",
+    "correct_answer": "B"
+  },
+  {
+    "id": 20,
+    "category": "history",
+    "question": "Who was the first Emperor of Rome?",
+    "A": "Julius Caesar",
+    "B": "Augustus",
+    "C": "Nero",
+    "D": "Constantine",
+    "correct_answer": "B"
+  },
+  {
+    "id": 21,
+    "category": "history",
+    "question": "In which year did the United States declare its independence from Great Britain?",
+    "A": "1776",
+    "B": "1789",
+    "C": "1804",
+    "D": "1848",
+    "correct_answer": "A"
+  },
+  {
+    "id": 22,
+    "category": "history",
+    "question": "Who was the first President of the United States?",
+    "A": "Thomas Jefferson",
+    "B": "George Washington",
+    "C": "Abraham Lincoln",
+    "D": "John Adams",
+    "correct_answer": "B"
+  },
+  {
+    "id": 23,
+    "category": "history",
+    "question": "Which country was ruled by Adolf Hitler during World War II?",
+    "A": "Italy",
+    "B": "Germany",
+    "C": "Japan",
+    "D": "United Kingdom",
+    "correct_answer": "B"
+  },
+  {
+    "id": 24,
+    "category": "history",
+    "question": "When did the French Revolution begin?",
+    "A": "1776",
+    "B": "1789",
+    "C": "1804",
+    "D": "1848",
+    "correct_answer": "B"
+  },
+  {
+    "id": 25,
+    "category": "history",
+    "question": "Who was the last Tsar of Russia?",
+    "A": "Nicholas II",
+    "B": "Ivan the Terrible",
+    "C": "Peter the Great",
+    "D": "Vladimir Lenin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 26,
+    "category": "history",
+    "question": "Which ancient civilization built the Machu Picchu citadel in Peru?",
+    "A": "Maya",
+    "B": "Aztec",
+    "C": "Inca",
+    "D": "Egyptian",
+    "correct_answer": "C"
+  },
+  {
+    "id": 27,
+    "category": "history",
+    "question": "In which year did World War I start?",
+    "A": "1914",
+    "B": "1917",
+    "C": "1939",
+    "D": "1941",
+    "correct_answer": "A"
+  },
+  {
+    "id": 28,
+    "category": "history",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "A": "Margaret Thatcher",
+    "B": "Angela Merkel",
+    "C": "Theresa May",
+    "D": "Jacinda Ardern",
+    "correct_answer": "A"
+  },
+  {
+    "id": 29,
+    "category": "history",
+    "question": "Which document declared the thirteen American colonies independent from Great Britain?",
+    "A": "Declaration of Independence",
+    "B": "Magna Carta",
+    "C": "Emancipation Proclamation",
+    "D": "Articles of Confederation",
+    "correct_answer": "A"
+  },
+  {
+    "id": 30,
+    "category": "history",
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "A": "Athens",
+    "B": "Rome",
+    "C": "Constantinople",
+    "D": "Alexandria",
+    "correct_answer": "C"
+  },
+  {
+    "id": 31,
+    "category": "history",
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "A": "Joseph Stalin",
+    "B": "Vladimir Lenin",
+    "C": "Leon Trotsky",
+    "D": "Nikita Khrushchev",
+    "correct_answer": "A"
+  },
+  {
+    "id": 32,
+    "category": "history",
+    "question": "When was the Magna Carta signed?",
+    "A": "1215",
+    "B": "1348",
+    "C": "1492",
+    "D": "1776",
+    "correct_answer": "A"
+  },
+  {
+    "id": 33,
+    "category": "history",
+    "question": "Which country did the United States acquire the Louisiana Purchase from in 1803?",
+    "A": "Spain",
+    "B": "France",
+    "C": "Mexico",
+    "D": "Canada",
+    "correct_answer": "B"
+  },
+  {
+    "id": 34,
+    "category": "history",
+    "question": "Who was the leader of the Bolshevik Party during the Russian Revolution?",
+    "A": "Vladimir Lenin",
+    "B": "Joseph Stalin",
+    "C": "Leon Trotsky",
+    "D": "Nikita Khrushchev",
+    "correct_answer": "A"
+  },
+  {
+    "id": 35,
+    "category": "history",
+    "question": "Which event marked the beginning of World War II?",
+    "A": "Bombing of Pearl Harbor",
+    "B": "Invasion of Poland",
+    "C": "Battle of Stalingrad",
+    "D": "Dropping of atomic bombs on Hiroshima and Nagasaki",
+    "correct_answer": "B"
+  },
+  {
+    "id": 36,
+    "category": "history",
+    "question": "Who wrote the Communist Manifesto?",
+    "A": "Karl Marx",
+    "B": "Friedrich Engels",
+    "C": "Vladimir Lenin",
+    "D": "Joseph Stalin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 37,
+    "category": "history",
+    "question": "Which ancient civilization built the Great Wall of China?",
+    "A": "Persian Empire",
+    "B": "Roman Empire",
+    "C": "Greek Empire",
+    "D": "Chinese Empire",
+    "correct_answer": "D"
+  },
+  {
+    "id": 38,
+    "category": "history",
+    "question": "When did the Renaissance period occur?",
+    "A": "13th-14th centuries",
+    "B": "15th-16th centuries",
+    "C": "17th-18th centuries",
+    "D": "19th-20th centuries",
+    "correct_answer": "B"
+  },
+  {
+    "id": 39,
+    "category": "history",
+    "question": "Who was the first Emperor of Rome?",
+    "A": "Julius Caesar",
+    "B": "Augustus",
+    "C": "Nero",
+    "D": "Constantine",
+    "correct_answer": "B"
+  },
+  {
+    "id": 40,
+    "category": "history",
+    "question": "In which year did the United States declare its independence from Great Britain?",
+    "A": "1776",
+    "B": "1789",
+    "C": "1804",
+    "D": "1848",
+    "correct_answer": "A"
+  },
+  {
+    "id": 41,
+    "category": "history",
+    "question": "Who was the first President of the United States?",
+    "A": "Thomas Jefferson",
+    "B": "George Washington",
+    "C": "Abraham Lincoln",
+    "D": "John Adams",
+    "correct_answer": "B"
+  },
+  {
+    "id": 42,
+    "category": "history",
+    "question": "Which country was ruled by Adolf Hitler during World War II?",
+    "A": "Italy",
+    "B": "Germany",
+    "C": "Japan",
+    "D": "United Kingdom",
+    "correct_answer": "B"
+  },
+  {
+    "id": 43,
+    "category": "history",
+    "question": "When did the French Revolution begin?",
+    "A": "1776",
+    "B": "1789",
+    "C": "1804",
+    "D": "1848",
+    "correct_answer": "B"
+  },
+  {
+    "id": 44,
+    "category": "history",
+    "question": "Who was the last Tsar of Russia?",
+    "A": "Nicholas II",
+    "B": "Ivan the Terrible",
+    "C": "Peter the Great",
+    "D": "Vladimir Lenin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 45,
+    "category": "history",
+    "question": "Which ancient civilization built the Machu Picchu citadel in Peru?",
+    "A": "Maya",
+    "B": "Aztec",
+    "C": "Inca",
+    "D": "Egyptian",
+    "correct_answer": "C"
+  },
+  {
+    "id": 46,
+    "category": "history",
+    "question": "In which year did World War I start?",
+    "A": "1914",
+    "B": "1917",
+    "C": "1939",
+    "D": "1941",
+    "correct_answer": "A"
+  },
+  {
+    "id": 47,
+    "category": "history",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "A": "Margaret Thatcher",
+    "B": "Angela Merkel",
+    "C": "Theresa May",
+    "D": "Jacinda Ardern",
+    "correct_answer": "A"
+  },
+  {
+    "id": 48,
+    "category": "history",
+    "question": "Which document declared the thirteen American colonies independent from Great Britain?",
+    "A": "Declaration of Independence",
+    "B": "Magna Carta",
+    "C": "Emancipation Proclamation",
+    "D": "Articles of Confederation",
+    "correct_answer": "A"
+  },
+  {
+    "id": 49,
+    "category": "history",
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "A": "Athens",
+    "B": "Rome",
+    "C": "Constantinople",
+    "D": "Alexandria",
+    "correct_answer": "C"
+  },
+  {
+    "id": 50,
+    "category": "history",
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "A": "1492",
+    "B": "1510",
+    "C": "1607",
+    "D": "1776",
+    "correct_answer": "A"
+  }
+]

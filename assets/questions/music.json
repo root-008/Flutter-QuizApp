@@ -1,0 +1,503 @@
+
+ [
+    {
+      "id": 1,
+      "category": "music",
+      "question": "Who is known as the 'King of Pop'?",
+      "A": "Michael Jackson",
+      "B": "Elvis Presley",
+      "C": "Madonna",
+      "D": "Beyoncé",
+      "correct_answer": "A"
+    },
+    {
+      "id": 2,
+      "category": "music",
+      "question": "Which band released the album 'Abbey Road'?",
+      "A": "The Beatles",
+      "B": "The Rolling Stones",
+      "C": "Led Zeppelin",
+      "D": "Pink Floyd",
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "category": "music",
+      "question": "What instrument does Miles Davis primarily play?",
+      "A": "Guitar",
+      "B": "Piano",
+      "C": "Trumpet",
+      "D": "Drums",
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "category": "music",
+      "question": "Which famous pop star had the real name Robyn Fenty?",
+      "A": "Britney Spears",
+      "B": "Taylor Swift",
+      "C": "Rihanna",
+      "D": "Ariana Grande",
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "category": "music",
+      "question": "Which rock band is known for the hit song 'Stairway to Heaven'?",
+      "A": "Guns N' Roses",
+      "B": "Queen",
+      "C": "Led Zeppelin",
+      "D": "AC/DC",
+      "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "category": "music",
+      "question": "Who is the lead vocalist of the band Coldplay?",
+      "A": "Chris Martin",
+      "B": "Adam Levine",
+      "C": "Brandon Flowers",
+      "D": "Dave Grohl",
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "music",
+      "question": "What is the best-selling album of all time?",
+      "A": "Thriller - Michael Jackson",
+      "B": "Back in Black - AC/DC",
+      "C": "The Dark Side of the Moon - Pink Floyd",
+      "D": "Rumors - Fleetwood Mac",
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "category": "music",
+      "question": "Which famous rapper's real name is Shawn Carter?",
+      "A": "Eminem",
+      "B": "Jay-Z",
+      "C": "Kanye West",
+      "D": "Drake",
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "category": "music",
+      "question": "Who composed the famous ballet 'The Nutcracker'?",
+      "A": "Ludwig van Beethoven",
+      "B": "Pyotr Ilyich Tchaikovsky",
+      "C": "Wolfgang Amadeus Mozart",
+      "D": "Johann Sebastian Bach",
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "music",
+      "question": "Which female artist had a hit song with 'Rolling in the Deep'?",
+      "A": "Adele",
+      "B": "Rihanna",
+      "C": "Beyoncé",
+      "D": "Taylor Swift",
+      "correct_answer": "A"
+    },
+    {
+      "id": 11,
+      "category": "music",
+      "question": "Which legendary guitarist is known for his rendition of 'The Star-Spangled Banner' at Woodstock?",
+      "A": "Eric Clapton",
+      "B": "Jimi Hendrix",
+      "C": "Jimmy Page",
+      "D": "Stevie Ray Vaughan",
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "category": "music",
+      "question": "Who is the lead singer of the band U2?",
+      "A": "Bono",
+      "B": "Chris Martin",
+      "C": "Thom Yorke",
+      "D": "Brandon Flowers",
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "category": "music",
+      "question": "Which famous artist sang the hit song 'Like a Rolling Stone'?",
+      "A": "Bob Marley",
+      "B": "Bob Dylan",
+      "C": "Elvis Presley",
+      "D": "John Lennon",
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "category": "music",
+      "question": "Which band is known for the song 'Hotel California'?",
+      "A": "The Eagles",
+      "B": "Aerosmith",
+      "C": "Nirvana",
+      "D": "Metallica",
+      "correct_answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "music",
+      "question": "What is the real name of the rapper Drake?",
+      "A": "Aubrey Graham",
+      "B": "Dwayne Carter",
+      "C": "Curtis Jackson",
+      "D": "Marshall Mathers",
+      "correct_answer": "A"
+    },
+    {
+      "id": 16,
+      "category": "music",
+      "question": "Which singer is known for the hit song 'Poker Face'?",
+      "A": "Lady Gaga",
+      "B": "Katy Perry",
+      "C": "Madonna",
+      "D": "Beyoncé",
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "category": "music",
+      "question": "Who is the drummer for the band Nirvana?",
+      "A": "Lars Ulrich",
+      "B": "Dave Grohl",
+      "C": "Travis Barker",
+      "D": "Ringo Starr",
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "category": "music",
+      "question": "Which artist released the album 'Purple Rain'?",
+      "A": "Prince",
+      "B": "Michael Jackson",
+      "C": "Elton John",
+      "D": "Stevie Wonder",
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "category": "music",
+      "question": "Who is the lead singer of the band Queen?",
+      "A": "Freddie Mercury",
+      "B": "Robert Plant",
+      "C": "Axl Rose",
+      "D": "Roger Daltrey",
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "music",
+      "question": "Which famous rapper was born in Compton and released the album 'DAMN.'?",
+      "A": "Snoop Dogg",
+      "B": "Eminem",
+      "C": "Kendrick Lamar",
+      "D": "Dr. Dre",
+      "correct_answer": "C"
+    },
+    {
+      "id": 21,
+      "category": "music",
+      "question": "What is the full name of the British singer known as Adele?",
+      "A": "Adele Adkins",
+      "B": "Adele Laurie Blue Adkins",
+      "C": "Adele Smith",
+      "D": "Adele Johnson",
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "category": "music",
+      "question": "Which famous artist recorded the album 'Thriller'?",
+      "A": "Michael Jackson",
+      "B": "Elvis Presley",
+      "C": "Prince",
+      "D": "David Bowie",
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "category": "music",
+      "question": "Who is known as the 'Queen of Soul'?",
+      "A": "Whitney Houston",
+      "B": "Tina Turner",
+      "C": "Aretha Franklin",
+      "D": "Diana Ross",
+      "correct_answer": "C"
+    },
+    {
+      "id": 24,
+      "category": "music",
+      "question": "Which rock band is known for the song 'Bohemian Rhapsody'?",
+      "A": "The Rolling Stones",
+      "B": "Led Zeppelin",
+      "C": "Queen",
+      "D": "The Who",
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "category": "music",
+      "question": "What is the real name of the singer known as Beyoncé?",
+      "A": "Beyoncé Knowles",
+      "B": "Robyn Fenty",
+      "C": "Alicia Keys",
+      "D": "Stefani Germanotta",
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "category": "music",
+      "question": "Who is the lead singer of the band Radiohead?",
+      "A": "Thom Yorke",
+      "B": "Chris Martin",
+      "C": "Eddie Vedder",
+      "D": "Dave Grohl",
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "category": "music",
+      "question": "Which artist released the album 'Back to Black'?",
+      "A": "Adele",
+      "B": "Amy Winehouse",
+      "C": "Taylor Swift",
+      "D": "Rihanna",
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "music",
+      "question": "What instrument does Jimi Hendrix primarily play?",
+      "A": "Guitar",
+      "B": "Piano",
+      "C": "Trumpet",
+      "D": "Drums",
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "category": "music",
+      "question": "Which famous rapper's real name is Marshall Mathers?",
+      "A": "Eminem",
+      "B": "Jay-Z",
+      "C": "Kanye West",
+      "D": "Drake",
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "category": "music",
+      "question": "Who composed the famous symphony 'Symphony No. 9'?",
+      "A": "Ludwig van Beethoven",
+      "B": "Wolfgang Amadeus Mozart",
+      "C": "Pyotr Ilyich Tchaikovsky",
+      "D": "Johann Sebastian Bach",
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "category": "music",
+      "question": "Which female artist released the album 'Lemonade'?",
+      "A": "Adele",
+      "B": "Rihanna",
+      "C": "Beyoncé",
+      "D": "Taylor Swift",
+      "correct_answer": "C"
+    },
+    {
+      "id": 32,
+      "category": "music",
+      "question": "Who is the guitarist for the band Led Zeppelin?",
+      "A": "Eric Clapton",
+      "B": "Jimmy Page",
+      "C": "Keith Richards",
+      "D": "Angus Young",
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "category": "music",
+      "question": "Which artist released the album 'Born to Run'?",
+      "A": "Bruce Springsteen",
+      "B": "Billy Joel",
+      "C": "Paul McCartney",
+      "D": "David Bowie",
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "category": "music",
+      "question": "Who is the lead singer of the band The Rolling Stones?",
+      "A": "Mick Jagger",
+      "B": "Freddie Mercury",
+      "C": "Robert Plant",
+      "D": "Roger Daltrey",
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "category": "music",
+      "question": "What is the real name of the rapper known as Snoop Dogg?",
+      "A": "Calvin Harris",
+      "B": "Calvin Broadus",
+      "C": "Calvin Johnson",
+      "D": "Calvin Anderson",
+      "correct_answer": "B"
+    },
+    {
+      "id": 36,
+      "category": "music",
+      "question": "Which singer is known for the hit song 'Halo'?",
+      "A": "Lady Gaga",
+      "B": "Katy Perry",
+      "C": "Adele",
+      "D": "Beyoncé",
+      "correct_answer": "D"
+    },
+    {
+      "id": 37,
+      "category": "music",
+      "question": "Who is the drummer for the band Red Hot Chili Peppers?",
+      "A": "Lars Ulrich",
+      "B": "Dave Grohl",
+      "C": "Travis Barker",
+      "D": "Chad Smith",
+      "correct_answer": "D"
+    },
+    {
+      "id": 38,
+      "category": "music",
+      "question": "Which artist released the album 'Sign o' the Times'?",
+      "A": "Prince",
+      "B": "Michael Jackson",
+      "C": "Elton John",
+      "D": "Stevie Wonder",
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "category": "music",
+      "question": "Who is the lead singer of the band Guns N' Roses?",
+      "A": "Axl Rose",
+      "B": "Freddie Mercury",
+      "C": "Robert Plant",
+      "D": "Roger Daltrey",
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "category": "music",
+      "question": "Which famous rapper released the album 'Good Kid, M.A.A.D City'?",
+      "A": "Snoop Dogg",
+      "B": "Eminem",
+      "C": "Kendrick Lamar",
+      "D": "Dr. Dre",
+      "correct_answer": "C"
+    },
+    {
+      "id": 41,
+      "category": "music",
+      "question": "What is the full name of the British singer known as Ed Sheeran?",
+      "A": "Edward Sheeran",
+      "B": "Edward Christopher Sheeran",
+      "C": "Edward Smith",
+      "D": "Edward Johnson",
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "category": "music",
+      "question": "Which famous artist recorded the album 'Back in Black'?",
+      "A": "Michael Jackson",
+      "B": "Elvis Presley",
+      "C": "AC/DC",
+      "D": "David Bowie",
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "category": "music",
+      "question": "Who is known as the 'King of Rock and Roll'?",
+      "A": "Michael Jackson",
+      "B": "Elvis Presley",
+      "C": "Madonna",
+      "D": "Beyoncé",
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "category": "music",
+      "question": "Which rock band is known for the song 'Smells Like Teen Spirit'?",
+      "A": "Guns N' Roses",
+      "B": "Queen",
+      "C": "Nirvana",
+      "D": "AC/DC",
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "category": "music",
+      "question": "Who is the lead vocalist of the band Muse?",
+      "A": "Chris Martin",
+      "B": "Adam Levine",
+      "C": "Matt Bellamy",
+      "D": "Dave Grohl",
+      "correct_answer": "C"
+    },
+    {
+      "id": 46,
+      "category": "music",
+      "question": "What is the best-selling female album of all time?",
+      "A": "The Bodyguard - Whitney Houston",
+      "B": "21 - Adele",
+      "C": "Like a Virgin - Madonna",
+      "D": "Jagged Little Pill - Alanis Morissette",
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "category": "music",
+      "question": "Which artist released the album 'Nevermind'?",
+      "A": "Nirvana",
+      "B": "Pearl Jam",
+      "C": "Soundgarden",
+      "D": "Alice in Chains",
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "category": "music",
+      "question": "Who is the lead singer of the band Bon Jovi?",
+      "A": "Jon Bon Jovi",
+      "B": "Bruce Springsteen",
+      "C": "Bret Michaels",
+      "D": "Steven Tyler",
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "category": "music",
+      "question": "Which famous rapper's real name is Kanye West?",
+      "A": "Snoop Dogg",
+      "B": "Eminem",
+      "C": "Kendrick Lamar",
+      "D": "Kanye West",
+      "correct_answer": "D"
+    },
+    {
+      "id": 50,
+      "category": "music",
+      "question": "Who composed the famous ballet 'The Nutcracker'?",
+      "A": "Ludwig van Beethoven",
+      "B": "Wolfgang Amadeus Mozart",
+      "C": "Pyotr Ilyich Tchaikovsky",
+      "D": "Johann Sebastian Bach",
+      "correct_answer": "C"
+    }
+  ]

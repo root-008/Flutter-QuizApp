@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "category": "television",
+    "question": "Which TV show features the character Walter White?",
+    "A": "Breaking Bad",
+    "B": "The Walking Dead",
+    "C": "Stranger Things",
+    "D": "Friends",
+    "correct_answer": "A"
+  },
+  {
+    "id": 2,
+    "category": "television",
+    "question": "In the TV show 'Friends', which character is a paleontologist?",
+    "A": "Joey Tribbiani",
+    "B": "Ross Geller",
+    "C": "Chandler Bing",
+    "D": "Monica Geller",
+    "correct_answer": "B"
+  },
+  {
+    "id": 3,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'Sherlock'?",
+    "A": "John Watson",
+    "B": "Mycroft Holmes",
+    "C": "Sherlock Holmes",
+    "D": "Inspector Lestrade",
+    "correct_answer": "C"
+  },
+  {
+    "id": 4,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Hawkins?",
+    "A": "The Office",
+    "B": "Stranger Things",
+    "C": "Game of Thrones",
+    "D": "The Big Bang Theory",
+    "correct_answer": "B"
+  },
+  {
+    "id": 5,
+    "category": "television",
+    "question": "Who is the host of the TV show 'The Late Late Show with James Corden'?",
+    "A": "Jimmy Fallon",
+    "B": "Stephen Colbert",
+    "C": "James Corden",
+    "D": "Conan O'Brien",
+    "correct_answer": "C"
+  },
+  {
+    "id": 6,
+    "category": "television",
+    "question": "Which TV show features the character Daenerys Targaryen?",
+    "A": "Stranger Things",
+    "B": "Game of Thrones",
+    "C": "Breaking Bad",
+    "D": "The Walking Dead",
+    "correct_answer": "B"
+  },
+  {
+    "id": 7,
+    "category": "television",
+    "question": "In the TV show 'The Office', which character is known for his love of bears, beets, and Battlestar Galactica?",
+    "A": "Michael Scott",
+    "B": "Dwight Schrute",
+    "C": "Jim Halpert",
+    "D": "Pam Beesly",
+    "correct_answer": "B"
+  },
+  {
+    "id": 8,
+    "category": "television",
+    "question": "Which TV show is set in the fictional realm of Westeros?",
+    "A": "Breaking Bad",
+    "B": "Friends",
+    "C": "Game of Thrones",
+    "D": "Stranger Things",
+    "correct_answer": "C"
+  },
+  {
+    "id": 9,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'House'?",
+    "A": "Greg House",
+    "B": "James Wilson",
+    "C": "Lisa Cuddy",
+    "D": "Allison Cameron",
+    "correct_answer": "A"
+  },
+  {
+    "id": 10,
+    "category": "television",
+    "question": "Which TV show is about a high school chemistry teacher turned methamphetamine manufacturer?",
+    "A": "Breaking Bad",
+    "B": "The Walking Dead",
+    "C": "Stranger Things",
+    "D": "Friends",
+    "correct_answer": "A"
+  },
+  {
+    "id": 11,
+    "category": "television",
+    "question": "In the TV show 'Stranger Things', what is Eleven's real name?",
+    "A": "Jane",
+    "B": "Nancy",
+    "C": "Max",
+    "D": "Barbara",
+    "correct_answer": "A"
+  },
+  {
+    "id": 12,
+    "category": "television",
+    "question": "Who is the host of the TV show 'The Tonight Show Starring Jimmy Fallon'?",
+    "A": "Jimmy Kimmel",
+    "B": "Jimmy Fallon",
+    "C": "Jimmy Carr",
+    "D": "James Corden",
+    "correct_answer": "B"
+  },
+  {
+    "id": 13,
+    "category": "television",
+    "question": "Which TV show is set in the town of Pawnee?",
+    "A": "Brooklyn Nine-Nine",
+    "B": "Parks and Recreation",
+    "C": "The Office",
+    "D": "The Good Place",
+    "correct_answer": "B"
+  },
+  {
+    "id": 14,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'The Big Bang Theory'?",
+    "A": "Sheldon Cooper",
+    "B": "Leonard Hofstadter",
+    "C": "Penny",
+    "D": "Howard Wolowitz",
+    "correct_answer": "A"
+  },
+  {
+    "id": 15,
+    "category": "television",
+    "question": "Which TV show features the character Rick Grimes?",
+    "A": "Breaking Bad",
+    "B": "Game of Thrones",
+    "C": "The Walking Dead",
+    "D": "Stranger Things",
+    "correct_answer": "C"
+  },
+  {
+    "id": 16,
+    "category": "television",
+    "question": "In the TV show 'Friends', what is the name of Ross and Monica's younger sister?",
+    "A": "Rachel",
+    "B": "Phoebe",
+    "C": "Emily",
+    "D": "Judy",
+    "correct_answer": "B"
+  },
+  {
+    "id": 17,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'Stranger Things'?",
+    "A": "Mike Wheeler",
+    "B": "Eleven",
+    "C": "Dustin Henderson",
+    "D": "Joyce Byers",
+    "correct_answer": "B"
+  },
+  {
+    "id": 18,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Pawnee?",
+    "A": "The Office",
+    "B": "Parks and Recreation",
+    "C": "Brooklyn Nine-Nine",
+    "D": "The Good Place",
+    "correct_answer": "B"
+  },
+  {
+    "id": 19,
+    "category": "television",
+    "question": "Who is the host of the TV show 'The Daily Show'?",
+    "A": "Jimmy Kimmel",
+    "B": "Trevor Noah",
+    "C": "Stephen Colbert",
+    "D": "John Oliver",
+    "correct_answer": "B"
+  },
+  {
+    "id": 20,
+    "category": "television",
+    "question": "In the TV show 'Game of Thrones', who is known as the 'Mother of Dragons'?",
+    "A": "Cersei Lannister",
+    "B": "Daenerys Targaryen",
+    "C": "Arya Stark",
+    "D": "Sansa Stark",
+    "correct_answer": "B"
+  },
+  {
+    "id": 21,
+    "category": "television",
+    "question": "Which TV show features the character Sheldon Cooper?",
+    "A": "The Big Bang Theory",
+    "B": "How I Met Your Mother",
+    "C": "Friends",
+    "D": "Seinfeld",
+    "correct_answer": "A"
+  },
+  {
+    "id": 22,
+    "category": "television",
+    "question": "In the TV show 'The Office', who is known for his love of beet farming?",
+    "A": "Michael Scott",
+    "B": "Dwight Schrute",
+    "C": "Jim Halpert",
+    "D": "Pam Beesly",
+    "correct_answer": "B"
+  },
+  {
+    "id": 23,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'Brooklyn Nine-Nine'?",
+    "A": "Jake Peralta",
+    "B": "Rosa Diaz",
+    "C": "Terry Jeffords",
+    "D": "Amy Santiago",
+    "correct_answer": "A"
+  },
+  {
+    "id": 24,
+    "category": "television",
+    "question": "Which TV show is set in the afterlife?",
+    "A": "The Good Place",
+    "B": "Parks and Recreation",
+    "C": "The Office",
+    "D": "Brooklyn Nine-Nine",
+    "correct_answer": "A"
+  },
+  {
+    "id": 25,
+    "category": "television",
+    "question": "Who is the host of the TV show 'Last Week Tonight with John Oliver'?",
+    "A": "Jimmy Fallon",
+    "B": "Stephen Colbert",
+    "C": "John Oliver",
+    "D": "Conan O'Brien",
+    "correct_answer": "C"
+  },
+  {
+    "id": 26,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Pawnee?",
+    "A": "Brooklyn Nine-Nine",
+    "B": "Parks and Recreation",
+    "C": "The Office",
+    "D": "The Good Place",
+    "correct_answer": "B"
+  },
+  {
+    "id": 27,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'How I Met Your Mother'?",
+    "A": "Ted Mosby",
+    "B": "Barney Stinson",
+    "C": "Marshall Eriksen",
+    "D": "Lily Aldrin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 28,
+    "category": "television",
+    "question": "Which TV show features the character Tony Stark?",
+    "A": "The Flash",
+    "B": "Arrow",
+    "C": "Agents of S.H.I.E.L.D.",
+    "D": "Iron Man",
+    "correct_answer": "D"
+  },
+  {
+    "id": 29,
+    "category": "television",
+    "question": "In the TV show 'Stranger Things', what is the name of the parallel dimension?",
+    "A": "The Upside Down",
+    "B": "The Other Side",
+    "C": "The Dark Realm",
+    "D": "The Shadow World",
+    "correct_answer": "A"
+  },
+  {
+    "id": 30,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'The Walking Dead'?",
+    "A": "Rick Grimes",
+    "B": "Daryl Dixon",
+    "C": "Maggie Greene",
+    "D": "Carol Peletier",
+    "correct_answer": "A"
+  },
+  {
+    "id": 31,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Twin Peaks?",
+    "A": "Breaking Bad",
+    "B": "Stranger Things",
+    "C": "The X-Files",
+    "D": "Twin Peaks",
+    "correct_answer": "D"
+  },
+  {
+    "id": 32,
+    "category": "television",
+    "question": "In the TV show 'Friends', what is the name of Ross and Rachel's daughter?",
+    "A": "Emma",
+    "B": "Lily",
+    "C": "Sophie",
+    "D": "Grace",
+    "correct_answer": "A"
+  },
+  {
+    "id": 33,
+    "category": "television",
+    "question": "Who is the host of the TV show 'The Ellen DeGeneres Show'?",
+    "A": "Ellen DeGeneres",
+    "B": "Oprah Winfrey",
+    "C": "Tyra Banks",
+    "D": "Ellen Pompeo",
+    "correct_answer": "A"
+  },
+  {
+    "id": 34,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Mayberry?",
+    "A": "The Andy Griffith Show",
+    "B": "M*A*S*H",
+    "C": "I Love Lucy",
+    "D": "Gilligan's Island",
+    "correct_answer": "A"
+  },
+  {
+    "id": 35,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'How to Get Away with Murder'?",
+    "A": "Annalise Keating",
+    "B": "Frank Delfino",
+    "C": "Wes Gibbins",
+    "D": "Michaela Pratt",
+    "correct_answer": "A"
+  },
+  {
+    "id": 36,
+    "category": "television",
+    "question": "Which TV show features the character Dexter Morgan?",
+    "A": "Breaking Bad",
+    "B": "Stranger Things",
+    "C": "Dexter",
+    "D": "The Walking Dead",
+    "correct_answer": "C"
+  },
+  {
+    "id": 37,
+    "category": "television",
+    "question": "In the TV show 'Friends', what is the name of Ross's pet monkey?",
+    "A": "Marcel",
+    "B": "Gleek",
+    "C": "Jack",
+    "D": "Jojo",
+    "correct_answer": "A"
+  },
+  {
+    "id": 38,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'Stranger Things'?",
+    "A": "Mike Wheeler",
+    "B": "Eleven",
+    "C": "Dustin Henderson",
+    "D": "Joyce Byers",
+    "correct_answer": "B"
+  },
+  {
+    "id": 39,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Stars Hollow?",
+    "A": "Gilmore Girls",
+    "B": "Pretty Little Liars",
+    "C": "The Vampire Diaries",
+    "D": "One Tree Hill",
+    "correct_answer": "A"
+  },
+  {
+    "id": 40,
+    "category": "television",
+    "question": "Who is the host of the TV show 'Jeopardy!'?",
+    "A": "Alex Trebek",
+    "B": "Pat Sajak",
+    "C": "Vanna White",
+    "D": "Drew Carey",
+    "correct_answer": "A"
+  },
+  {
+    "id": 41,
+    "category": "television",
+    "question": "In the TV show 'Game of Thrones', who is Jon Snow's biological father?",
+    "A": "Eddard Stark",
+    "B": "Tywin Lannister",
+    "C": "Rhaegar Targaryen",
+    "D": "Robert Baratheon",
+    "correct_answer": "C"
+  },
+  {
+    "id": 42,
+    "category": "television",
+    "question": "Which TV show is set in the town of Springfield?",
+    "A": "Family Guy",
+    "B": "South Park",
+    "C": "The Simpsons",
+    "D": "American Dad!",
+    "correct_answer": "C"
+  },
+  {
+    "id": 43,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'The Crown'?",
+    "A": "Queen Elizabeth II",
+    "B": "Prince Philip",
+    "C": "Princess Margaret",
+    "D": "Prince Charles",
+    "correct_answer": "A"
+  },
+  {
+    "id": 44,
+    "category": "television",
+    "question": "Which TV show features the character Olivia Pope?",
+    "A": "Scandal",
+    "B": "How to Get Away with Murder",
+    "C": "Grey's Anatomy",
+    "D": "Private Practice",
+    "correct_answer": "A"
+  },
+  {
+    "id": 45,
+    "category": "television",
+    "question": "In the TV show 'Friends', what is the name of Joey's stuffed penguin?",
+    "A": "Hugsy",
+    "B": "Gunter",
+    "C": "Waddles",
+    "D": "Mr. Penguin",
+    "correct_answer": "A"
+  },
+  {
+    "id": 46,
+    "category": "television",
+    "question": "Who is the host of the TV show 'Late Night with Jimmy Fallon'?",
+    "A": "Jimmy Fallon",
+    "B": "Jimmy Kimmel",
+    "C": "Conan O'Brien",
+    "D": "James Corden",
+    "correct_answer": "A"
+  },
+  {
+    "id": 47,
+    "category": "television",
+    "question": "Which TV show is set in the fictional town of Pawnee?",
+    "A": "Brooklyn Nine-Nine",
+    "B": "Parks and Recreation",
+    "C": "The Office",
+    "D": "The Good Place",
+    "correct_answer": "B"
+  },
+  {
+    "id": 48,
+    "category": "television",
+    "question": "Who is the main character in the TV show 'The Office'?",
+    "A": "Michael Scott",
+    "B": "Dwight Schrute",
+    "C": "Jim Halpert",
+    "D": "Pam Beesly",
+    "correct_answer": "A"
+  },
+  {
+    "id": 49,
+    "category": "television",
+    "question": "Which TV show features the character Eleven?",
+    "A": "Breaking Bad",
+    "B": "Game of Thrones",
+    "C": "The Walking Dead",
+    "D": "Stranger Things",
+    "correct_answer": "D"
+  },
+  {
+    "id": 50,
+    "category": "television",
+    "question": "In the TV show 'Friends', what is the name of Chandler's annoying ex-girlfriend?",
+    "A": "Janice",
+    "B": "Emily",
+    "C": "Mona",
+    "D": "Kathy",
+    "correct_answer": "A"
+  }
+]
